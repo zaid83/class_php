@@ -1,0 +1,16 @@
+body {
+  background-image:url('chien2.png');
+  background-size:cover;
+  color:white;
+  
+}
+h2 {
+  color:yellow;
+}
+span{
+  border:1px solid white;
+  padding:5px
+}
+span b{
+color:yellow;
+}
